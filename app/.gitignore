@@ -1,1 +1,36 @@
-/build
+# Android Studio
+.idea/
+.gradle/
+local.properties
+.DS_Store
+*.iml
+*.hprof
+
+# Build folders
+build/
+*/build/
+
+# Sign-in key and secrets
+*.jks
+*.keystore
+secrets.properties
+
+# Firebase
+google-services.json
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Crashlytics
+crashlytics-build.properties
